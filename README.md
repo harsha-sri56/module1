@@ -1,7 +1,6 @@
 <html>
   <body>
-    <h1>Output is here</h1>
-    <<a href="https://harsha-sri56.github.io/module1/">Click here</a>
+    <a style="color:blue;text-align:center; font-size:50px;" href="https://harsha-sri56.github.io/module1/">Click here to view output</a>
   </body>
  </html>
     
